@@ -1,0 +1,30 @@
+{
+  "name": "express-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jurrish/express-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jurrish/express-practice/issues"
+  },
+  "homepage": "https://github.com/jurrish/express-practice#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
