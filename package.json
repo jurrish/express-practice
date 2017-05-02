@@ -25,6 +25,11 @@
     "chai": "^3.5.0"
   },
   "dependencies": {
-    "express": "^4.15.2"
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "http-errors": "^1.6.1",
+    "mkdirp": "^0.5.1",
+    "node-uuid": "^1.4.8"
   }
 }
